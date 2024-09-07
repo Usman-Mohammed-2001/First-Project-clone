@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/First-Project-clone/static/css/main.6a25f9b6.css",
+    "main.js": "/First-Project-clone/static/js/main.7e659709.js",
+    "static/media/NetflixLogo.JPG": "/First-Project-clone/static/media/NetflixLogo.acae7d275fb1940dc9ee.JPG",
+    "index.html": "/First-Project-clone/index.html",
+    "main.6a25f9b6.css.map": "/First-Project-clone/static/css/main.6a25f9b6.css.map",
+    "main.7e659709.js.map": "/First-Project-clone/static/js/main.7e659709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a25f9b6.css",
+    "static/js/main.7e659709.js"
+  ]
+}
